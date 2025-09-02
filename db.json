@@ -1,0 +1,37 @@
+{
+    "members":[
+        {
+            "id": 1,
+            "firstname":"John",
+            "lastname": "Smith",
+            "email":"johnsmith@gmail.com",
+            "phone": "77770000",
+            "address":"Jurong East, Singpaore"
+        },
+        {
+            "id": 2,
+            "firstname":"Peter",
+            "lastname": "Frank",
+            "email":"peter99@yahoo.com.sg",
+            "phone": "52898888",
+            "address":"Hougang Avenue 6, Singpaore"
+        },
+        {
+            "id": 3,
+            "firstname":"Alex",
+            "lastname": "Smart",
+            "email":"smart@gmail.com",
+            "phone": "54730033",
+            "address":"Bedok, Singpaore"
+        },
+        {
+            "id": 4,
+            "firstname":"James",
+            "lastname": "Aung",
+            "email":"aungaung@gmail.com",
+            "phone": "73339777",
+            "address":"Boonlay, Singpaore"
+        }
+
+    ]
+}
